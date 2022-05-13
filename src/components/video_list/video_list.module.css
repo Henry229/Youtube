@@ -1,0 +1,14 @@
+.video {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+/* @media screen and (max-width: 48rem) {
+  .video {
+    flex-direction: column;
+  }
+} */
+

@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  height: 4rem;
+  padding: 0.8em 1em;
+  background-color: black;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-right: 1em;
+}
+
+a:link {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.input {
+  flex-basis: 100%;
+  font-size: 1.2rem;
+  outline: 0;
+}
+
+.button {
+  background-color: darkgray;
+  outline: 0;
+}
+
+.buttonImg {
+  height: 100%;
+  padding: 0.5em 0.5em;
+}
