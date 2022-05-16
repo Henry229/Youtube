@@ -4,15 +4,17 @@ Youtube Clone with React
 
 ## Description
 
-• Project using external API.
+• Things I learned
 
-• How to use REST API.
+   - Project using external API.
 
-• How to use POSTMAN
+   - How to use REST API.
+ 
+   - How to use POSTMAN
 
 • will be updated
 
-  - Implement like and thumbs up fuction
+   - Implement like and thumbs up fuction
 
 ## Getting Started
 
