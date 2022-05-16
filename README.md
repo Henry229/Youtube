@@ -24,7 +24,7 @@ Youtube Clone with React
 
 ### Installing
 
-### Executing Demo program
+### Executing Demo Page
 
 * https://with-react-eb328.web.app/
 ```
