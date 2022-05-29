@@ -4,13 +4,11 @@ Youtube Clone with React
 
 ## Description
 
-• Things I learned
+• Skills I used
 
-   - Project using external API.
+   - POSTMAN with external API.
 
-   - How to use REST API.
- 
-   - How to use POSTMAN
+   - REST API with AXIOS.
 
 • will be updated
 
