@@ -12,7 +12,7 @@ Youtube Clone with React
 
 • will be updated
 
-   - Implement like and thumbs up fuction
+   - Implement like and thumbs up function
 
 ## Getting Started
 
